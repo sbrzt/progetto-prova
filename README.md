@@ -1,2 +1,4 @@
-# progetto-prova
-Descrizione abbastanza corta e generica del progetto
+# Progetto Prova
+
+Descrizione abbastanza corta e generica del progetto.
+
